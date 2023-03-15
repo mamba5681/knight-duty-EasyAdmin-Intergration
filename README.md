@@ -8,5 +8,5 @@ This EasyAdmin Plugin makes it so you have to be on duty as staff with [Knight D
 
 # Installation
 
-Drag this folder into plugins inside of EasyAdmin
-Add "@knight-duty/lib/client_knightdutylib.lua", right below where it says client_scripts { inside of fxmanifest.lua inside of EasyAdmin
+- Drag this folder into plugins inside of EasyAdmin
+- Add "@knight-duty/lib/client_knightdutylib.lua", right below where it says client_scripts { inside of fxmanifest.lua inside of EasyAdmin
